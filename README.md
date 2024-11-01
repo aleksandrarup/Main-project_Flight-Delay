@@ -1,5 +1,4 @@
 # Main-project_Flight-Delay
-Проект по программе переподготовки "Аналитик данных"
 
 **Данные** - https://www.kaggle.com/usdot/flight-delays
 
