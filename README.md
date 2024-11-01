@@ -1,4 +1,4 @@
-# Main-project_Flight-Delay
+# MainProject_FlightDelay
 
 **Данные** - https://www.kaggle.com/usdot/flight-delays
 
